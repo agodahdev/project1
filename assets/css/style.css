@@ -1,0 +1,8 @@
+/* Image on the main page*/
+
+img.responsive {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px auto;
+    display: block;
+}
