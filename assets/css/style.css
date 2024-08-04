@@ -174,3 +174,22 @@ footer {
 
 }
 
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+#socialnetworks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+}
+
+#socialnetworks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #ffcc00;
+
+}
