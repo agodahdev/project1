@@ -39,8 +39,26 @@ nav a:hover {
     color: black;
 }
 
+main {
+    padding: 20px;
+    flex: 1;
+}
+section {
+    margin-bottom: 20px;
+}
 
+h2, h3 {
+    color:#333;
+}
 
+/* About Us section*/
+
+.about-us {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
 
 
 /* Image on the main page*/
