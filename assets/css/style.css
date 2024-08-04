@@ -193,3 +193,21 @@ footer a:hover {
     color: #ffcc00;
 
 }
+
+#footer a.email-link {
+    color: #ffcc00;
+}
+
+
+
+
+
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav a {
+        padding: 10px;
+    }
+}
