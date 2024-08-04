@@ -111,6 +111,7 @@ img.responsive {
     display: block;
 }
 
+/* Registeration form*/
 .form-group {
     margin-bottom: 15px;
 }
@@ -196,9 +197,12 @@ footer a:hover {
 
 #footer a.email-link {
     color: #ffcc00;
+
 }
 
-
+#footer a.email-link:hover{
+    color: #fff;
+}
 
 
 
