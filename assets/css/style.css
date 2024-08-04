@@ -51,6 +51,10 @@ h2, h3 {
     color:#333;
 }
 
+
+
+
+
 /* About Us section*/
 
 .about-us {
@@ -59,6 +63,40 @@ h2, h3 {
     border: 1px solid #ddd;
     border-radius: 5px;
 }
+
+/* Table in the main page*/
+
+#schedule-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#schedule-table th, 
+#schedule-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    color: #333;
+}
+
+#schedule-table th{
+     background-color: #ffcc00;
+     color: #333;
+     font-weight: bold;
+}
+
+#schedule-table tbody tr:hover {
+    /*Slightly darker gray for hover*/
+    background-color: #eaeaea;
+}
+
+#schedule-table tbody tr {
+    background-color: #f4f4f4;
+}
+
 
 
 /* Image on the main page*/
@@ -69,6 +107,7 @@ img.responsive {
     margin: 20px auto;
     display: block;
 }
+
 
 /* Footer */
 
