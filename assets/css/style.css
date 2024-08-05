@@ -100,6 +100,24 @@ h2, h3 {
     background-color: #f4f4f4;
 }
 
+/*Activities section*/
+
+.activities-section {
+    background-color: #ffcc00;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.activities-section h3 {
+    color: #333;
+    margin-top: 0;
+}
+
+.activities-section p {
+    color: #333;
+}
 
 
 /* Image on the main page*/
