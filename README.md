@@ -1,10 +1,21 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Kids Summer Club
 
-Welcome agodahdev Goddah,
+The Kids Summer Club website is site tp club that provides a fun and engaging summer experience for kids aged 6- 16. 
+Users to the website will be able to find all the information they about the club, what activities we offer and how to register their child.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+![image of the responsiveness of the site](image-1.png)
 
-You can safely delete this README.md file or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **June 18, 2024**
+## Features:
+
+- Navigation: 
+
+  The page has a main menu with links to Home, Activties, About Us, Register sections. Its easy to use so users can quickly find the information they need.
+
+- Home Page:
+
+  This section welcomes the user and explains what the summer club is about.
+
+
 
 ## Gitpod Reminders
 
